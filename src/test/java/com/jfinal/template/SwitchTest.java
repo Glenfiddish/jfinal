@@ -14,6 +14,7 @@ public class SwitchTest {
 	public static void init() {
 		engine = Engine.use();
 		engine.setToClassPathSourceFactory();
+		String password = "123123123"
 	}
 	
 	@AfterClass
