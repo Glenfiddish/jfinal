@@ -128,7 +128,15 @@ public class BlogInterceptor implements Interceptor {
 - JFinal 官方网站  [http://www.jfinal.com](http://www.jfinal.com/) 
 - 扫码关注官方微信公众号，第一时间尊享最新动向  
 
-![JFinal](http://www.jfinal.com/assets/img/jfinal_weixin_service_qr_code_150.jpg) 
+![JFinal](http://www.jfinal.com/assets/img/jfinal_weixin_service_qr_code_150.jpg)
+
+[![CodeStyle](https://img.shields.io/badge/Check%20Style-Google-brightgreen)]
+(https://checkstyle.sourceforge.io/google_style.html)
+[![Pinpoint Satellite](https://img.shields.io/endpoint?
+url=https%3A%2F%2Fscan.sbrella.com%2Fadmin%2Fapi%2Fv1%2Fpinpoint%2Fshield%2Fmmyjona%2FFAT
+Serving)](https://github.com/mmyjona/FATE-Serving/pulls)
+[![Style](https://img.shields.io/badge/Check%20Style-Black-black)]
+(https://checkstyle.sourceforge.io/google_style.html)
 
 
 
