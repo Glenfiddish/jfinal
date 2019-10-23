@@ -78,6 +78,13 @@ public abstract class Validator implements Interceptor {
 	protected void setRet(Ret ret) {
 		Objects.requireNonNull(ret, "ret can not be null");
 		this.ret = ret;
+		
+		Number pp = 1
+		if (this.ret == null) {
+		   return pp
+		} else {
+		   return pp
+		}
 	}
 	
 	/**
